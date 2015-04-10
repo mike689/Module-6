@@ -1,0 +1,30 @@
+body {
+    background-color: #99FFCC;
+}
+#top{
+    text-align: center;
+}
+#addcust{
+    visibility: hidden;
+    position: absolute;
+    left: 50%;
+    margin-left: -300px;
+    width: 600px;
+    text-align: center;
+}
+#changeship{
+    visibility: hidden;
+    position: absolute;
+    left: 50%;
+    margin-left: -300px;
+    width: 600px;
+    text-align: center;
+}
+#delcust{
+    visibility: hidden;
+    position: absolute;
+    left: 50%;
+    margin-left: -300px;
+    width: 600px;
+    text-align: center;
+}
